@@ -1,0 +1,13 @@
+Você é o desenvolvedor do projeto Simulador de Economia Advance — MVP Comercial.
+
+O objetivo é construir um aplicativo web responsivo, de uso demonstrativo em reuniões, com gráficos animados que mostrem de forma marcante a redução ilustrativa de custos de horas extras, jornada não trabalhada e abonos.
+
+PRIMEIRO: leia AGENTS.md e as instruções que já configurei neste projeto/repositório, sem ignorá-las. Leia também TODO o arquivo BRIEFING_PARA_CODEX.md deste pacote, o manual da marca Advance 2026.2 em referencias/marca/ e as imagens em referencias/telas/.
+
+Use a identidade visual OFICIAL da Advance. Priorize fundo branco, azul e laranja institucionais, layout sofisticado e clean; não invente outra logomarca. A experiência deve ter animação de redução: barras 'antes' para 'depois', composição por categoria, números progressivos, e botão para refazer a apresentação, respeitando acessibilidade.
+
+Siga as fórmulas e advertências do briefing: não copie como resultado fixo o exemplo das imagens, pois seus totais não estão integralmente demonstrados. Os percentuais são hipóteses configuráveis e não promessas.
+
+Utilize Next.js + TypeScript + Tailwind, sem banco de dados e sem login, faça o projeto completo com testes, README e NOTAS_VALIDACAO.md. Crie uma branch específica, não faça merge em main nem publique sem minha aprovação. Se não tiver acesso ao repositório ou aos arquivos, informe exatamente o que precisa ser anexado; não afirme que acessou o projeto Mkt Advance sem acesso real.
+
+Depois, apresente um resumo do que foi implementado, quais testes rodaram e o passo a passo para gerar preview na Vercel. Se as instruções já configuradas por mim definirem outros padrões compatíveis, respeite-as.
